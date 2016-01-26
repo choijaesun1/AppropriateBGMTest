@@ -43,13 +43,28 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Last World" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="봉준"
+        android:id="@+id/button2"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignRight="@+id/linearLayout"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_marginRight="101dp"
+        android:layout_marginEnd="101dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="재선쓰"/>
     </LinearLayout>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="봉준"
-        android:id="@+id/button"
+        android:id="@+id/button1"
         android:layout_below="@+id/linearLayout"
         android:layout_alignRight="@+id/linearLayout"
         android:layout_alignEnd="@+id/linearLayout"
