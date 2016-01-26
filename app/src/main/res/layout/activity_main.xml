@@ -10,7 +10,8 @@
     tools:context="com.example.darack.gittest.MainActivity">
 <LinearLayout
     android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:id="@+id/linearLayout">
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -31,5 +32,17 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!5" />
+
     </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="봉준"
+        android:id="@+id/button"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignRight="@+id/linearLayout"
+        android:layout_alignEnd="@+id/linearLayout"
+        android:layout_marginRight="101dp"
+        android:layout_marginEnd="101dp" />
 </RelativeLayout>
