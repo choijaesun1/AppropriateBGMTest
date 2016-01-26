@@ -19,19 +19,19 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!2" />
+        android:text="헬로우월드" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!3" />
+        android:text="Hi World" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!4" />
+        android:text="하이 월드" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!5" />
+        android:text="핫도그 월드" />
 
     </LinearLayout>
 
