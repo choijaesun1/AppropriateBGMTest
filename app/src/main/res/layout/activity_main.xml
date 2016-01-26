@@ -37,6 +37,12 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hotdog World" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last World" />
     </LinearLayout>
 
     <Button
